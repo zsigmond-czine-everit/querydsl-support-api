@@ -89,9 +89,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.querydsl</groupId>
+      <groupId>com.mysema.querydsl</groupId>
       <artifactId>querydsl-sql</artifactId>
-      <version>4.0.3</version>
+      <version>3.6.7</version>
     </dependency>
   </dependencies>
 </project>
